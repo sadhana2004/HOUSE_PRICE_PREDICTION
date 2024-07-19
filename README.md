@@ -13,7 +13,7 @@ Create a pipeline for preprocessing and model training.
 Follow these instructions to set up the project locally.
 
 # Prerequisites
-Python 3.x
+Python 3.x,
 Pip (Python package manager)
 
 # Installation Steps
@@ -45,7 +45,7 @@ config.json: Configuration file for model parameters and file paths.
 This project is licensed under the MIT License.
 
 # Acknowledgments
-Kaggle's Housing Prices Competition dataset.
+Kaggle's Housing Prices Competition dataset,
 XGBoost library for advanced machine learning techniques.
 
 # Contact
